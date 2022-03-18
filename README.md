@@ -4,7 +4,7 @@
 
 ![readmeimage](https://user-images.githubusercontent.com/71333855/134226256-bc4c95c4-97e2-4eee-a7a2-d437be12c50b.png)
 <p align="center" style="margin-bottom: 0px !important;">
-  <h3 align="center" style="margin-top: 0px;"> (Open For Hiring)</h3>
+  <h3 align="center" style="margin-top: 0px;"> Data Engineer</h3>
 </p>
   
 <p align="center" style="margin-bottom: 0px !important;">
