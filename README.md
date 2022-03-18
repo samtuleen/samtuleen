@@ -11,13 +11,12 @@
   <h2 align="center" style="margin-top: 0px;"> Who Am I?</h2>
 </p>
 
-Data Scientist with experience in data acquisition & data modeling, statistical analysis, machine learning, deep learning & NLP. Skilled in Python, SQL, NumPy, Pandas & more. Significant coursework in Computer Science (105 credits). With a background in business management, I bring strong skills in client relations & time management as well as a passion for all things data. 
-
+Data Engineer with experience in data acquisition & data modeling, statistical analysis, machine learning, deep learning & NLP. Skilled in Python, SQL, NumPy, Pandas & more.
 
 <p align="center" style="margin-bottom: 0px !important;">
   <h2 align="center" style="margin-top: 0px;"> Skills</h2>
 </p>
-Python, OOP, SQL, scikit-learn, NumPy, Pandas, Keras, Machine Learning, Data Modeling, Data Mining, Predictive & Regression Analysis, Data Visualization, Web scraping, Tableau, MongoDB, Git, Tensorflow, Time Series, NLP, CNNs, Adobe Creative Suite, Apache, Spark, APIs, Big Data
+Python, OOP, SQL, scikit-learn, NumPy, Pandas, Keras, Machine Learning, Data Modeling, Data Mining, Predictive & Regression Analysis, Data Visualization, Web scraping, Tableau, MongoDB, Postgres, Git, Tensorflow, Time Series, NLP, CNNs, Adobe Creative Suite, Apache, Spark, APIs, Big Data
 
 <p align="center" style="margin-bottom: 0px !important;">
   <h2 align="center" style="margin-top: 0px;"> My Blog</h2>
